@@ -27,7 +27,6 @@ joblib==0.16.0
 jupyter-core==4.6.3
 kiwisolver==1.2.0
 matplotlib==3.3.0
-nb-conda==2.2.1
 nb-conda-kernels==2.2.3
 nbformat==5.0.7
 notebook==6.0.3
