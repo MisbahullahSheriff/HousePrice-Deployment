@@ -152,7 +152,7 @@ def main():
 
     if st.button("LOOK ME UP"):
         st.info(
-            "LinkedIn: https://www.linkedin.com/in/mohammed-misbahullah-sheriff-b684091a1")
+            "LinkedIn: https://www.linkedin.com/in/mohammed-misbahullah-sheriff")
         st.success("GitHub: https://github.com/MisbahullahSheriff")
 
 
