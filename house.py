@@ -50,7 +50,7 @@ def main():
         st.warning("Value must be NON-NEGATIVE")
         return
 
-    q = st.text_input("Overall House Quality", "5")
+    q = st.text_input("Overall House Quality (1 - 10)", "5")
     if (int(q) < 1) or (int(q) > 10):
         st.warning("Value must be NON-NEGATIVE and WITHIN RANGE [1, 10]")
         return
